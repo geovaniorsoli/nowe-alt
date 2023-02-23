@@ -82,7 +82,7 @@ body {
   background-color: var(--bs-body-bg);
 }
 .logo{
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 
 }
